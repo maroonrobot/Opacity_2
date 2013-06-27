@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/low_light_apps/low/light/texting/LowLightListActivity.java" />
+        <ignore path="src/com/low_light_apps/low/light/texting/LowlightActivity.java" />
+    </issue>
+</lint>
